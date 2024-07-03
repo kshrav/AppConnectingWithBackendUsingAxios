@@ -1,0 +1,40 @@
+.divcls{
+    /* display: inline-block; */
+    background-color: rgb(244, 222, 226);
+    margin: 20px 40px 20px 40px;
+    border: 2px solid blue;
+    padding: 5px 50px 5px 50px;
+
+}
+.licls{
+    display: inline-block;
+    margin: 20px 20px 20px 20px 20px;
+    /* border: 2px solid red; */
+    padding: 5px 50px 5px 50px;
+
+}
+.div{
+    color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:medium;
+}
+
+#h1id{
+    color: crimson;
+    background-color: rgb(241, 216, 220);
+    border: 4px solid red;
+    text-align: center;
+}
+.pcls{
+    color: rgb(32, 16, 213);
+    font-weight: 600;
+
+}
+.spancls{
+    color:rgb(194, 31, 31);
+    padding: 5px;
+    /* display: inline-block; */
+}
+body{
+    background-color: beige;
+}
